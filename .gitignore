@@ -1,0 +1,5 @@
+# Preventing apikey and secrets to push to github
+
+apikey.txt
+
+secrets.txt
