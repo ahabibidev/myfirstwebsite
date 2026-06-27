@@ -1,3 +1,1 @@
-this is chapter 3
-
-this is the new changes
+Hello i am creating a new version of chapter 3
